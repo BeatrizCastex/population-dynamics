@@ -1,7 +1,7 @@
 Projeto 5 - Introdução à Física Computacional
 
 
-Beatriz de Camargo Castex Ferreira - 10728077
+Beatriz de Camargo Castex Ferreira
 
 
 Docente: Prof. José A. Hoyos
