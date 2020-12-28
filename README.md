@@ -1,7 +1,15 @@
 Projeto 5 - Introdução à Física Computacional
+
+
 Beatriz de Camargo Castex Ferreira - 10728077
+
+
 Docente: Prof. José A. Hoyos
+
+
 USP São Carlos - IFSC
+
+
 06/2019
 
 OS ARQUIVOS DESSA PASTA FORAM FEITOS COM OBJETIVOS EDUCATIVOS COMO PARTE DE UM
